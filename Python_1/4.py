@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 correct_pass = "999"
-guess = input("Podaj 3-cyfrowe hasło:")
+guess = input("Podaj 3-cyfrowe haslo:")
 if guess == correct_pass:
-    print("Correct!")
+    print("Haslo prawidlowe!")
 else:
-    print("Wrong!")
+    print("Zle haslo!")
