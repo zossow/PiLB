@@ -1,0 +1,5 @@
+1. Operacje wejścia/wyjścia (zapisać i odczytać dane)
+2. zdefiniować klasę reprezentującą liczby zespolone (wraz z funkcjami na nich działającymi np. moduł dodawanie, odejmowanie itd.)
+3. sparsować przygotowanego XML (parserem SAX i DOM) i go zmodyfikować np. zmienić wartość któregoś tag'a
+4. zaimplementować wielowątkowe liczenie histogramu (monitorować wykonanie htop)
+5. zaimplementować prosty problem pięciu filozofów (z deadlockiem), następnie usunąć deadlock.
