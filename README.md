@@ -1,1 +1,2 @@
 # PiLB
+Zadania z Pythona
