@@ -1,0 +1,20 @@
+<?xml version="1.0" ?><books xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<book>
+		<title>Harry Potter and the Sorcerer's Stone</title>
+		<author>J.K. Rowling</author>
+		<year>1997</year>
+		<test_tag>zmieniam tag</test_tag>
+	</book>
+	<book>
+		<title>The Lord Of The Rings</title>
+		<author>J.R.R. Tolkien</author>
+		<year>1954</year>
+		<test_tag>zmieniam tag</test_tag>
+	</book>
+	<book>
+		<title>The Godfather</title>
+		<author>Mario Puzo</author>
+		<year>1969</year>
+		<test_tag>zmieniam tag</test_tag>
+	</book>
+</books>
